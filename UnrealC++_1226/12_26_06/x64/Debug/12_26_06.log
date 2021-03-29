@@ -1,0 +1,8 @@
+﻿  06.cpp
+c:\users\pc\documents\visual studio 2015\projects\unrealc++_1226\12_26_06\06.cpp(34): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pc\documents\visual studio 2015\projects\unrealc++_1226\12_26_06\06.cpp(59): warning C4373: 'Marin::Attack': 가상 함수는 'MonsterBase::Attack'을(를) 재정의하지만, 이전 버전의 컴파일러는 매개 변수의 const/volatile 한정자만 다른 경우에는 재정의하지 않았습니다.
+  c:\users\pc\documents\visual studio 2015\projects\unrealc++_1226\12_26_06\06.cpp(46): note: 'MonsterBase::Attack' 선언을 참조하십시오.
+c:\users\pc\documents\visual studio 2015\projects\unrealc++_1226\12_26_06\06.cpp(74): warning C4373: 'Tank::Attack': 가상 함수는 'MonsterBase::Attack'을(를) 재정의하지만, 이전 버전의 컴파일러는 매개 변수의 const/volatile 한정자만 다른 경우에는 재정의하지 않았습니다.
+  c:\users\pc\documents\visual studio 2015\projects\unrealc++_1226\12_26_06\06.cpp(46): note: 'MonsterBase::Attack' 선언을 참조하십시오.
+  12_26_06.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\UnrealC++_1226\x64\Debug\12_26_06.exe
+  12_26_06.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\UnrealC++_1226\x64\Debug\12_26_06.pdb (Full PDB)
